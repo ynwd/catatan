@@ -24,7 +24,7 @@ Penjelasan singkat mengenai sistem biner dan data, bisa kamu lihat di sini: [htt
 
 Data biner tersebut kemudian diproses oleh CPU (central processing unit) menggunakan intruksi yang sudah terpasang di memori. Ada ribuan intruksi untuk sekedar menyimpan dan menampilkan tiap huruf. Hasil pemrosesan itu kemudian disimpan lagi di memori.
 
-Selain intruksi untuk menampilkan huruf, ada lagi intruksi untuk perhitungan matematika, intruksi untuk menyimpan di memori, intruksi untuk meneruskan ke output, dan sebagainya. Semua intruksi tersebut diatur oleh software yang bisa disebut Sistem Operasi. Di dalamnya terdapat berbagai macam aplikasi yang dibuat untuk tujuan berbeda.
+Selain intruksi untuk menampilkan huruf, ada lagi intruksi untuk perhitungan matematika, intruksi untuk menyimpan di memori, intruksi untuk meneruskan ke output, dan sebagainya. Semua intruksi tersebut diatur oleh software yang biasa disebut Sistem Operasi. Di dalamnya terdapat berbagai macam aplikasi yang dibuat untuk tujuan berbeda.
 
 Penjelasan singkat mengenai Sistem Operasi, bisa kamu lihat di sini:
 [https://www.youtube.com/watch?v=xnyFYiK2rSY](https://www.youtube.com/watch?v=xnyFYiK2rSY)
