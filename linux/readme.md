@@ -63,11 +63,11 @@ $ cd hello
 ```
 `cd` dengan argumen `hello` di atas digunakan untuk masuk ke folder bernama `hello`.
 
-# pwd  
+# pwd
 ```terminal
 $ pwd
-```
-`pwd` digunakan untuk mengetahui lokasi folder yang digunakan saat ini.  
+```  
+Digunakan untuk mengetahui lokasi folder yang digunakan saat ini.
 Hasilnya:
 ```terminal
 /home/yanu/hello
@@ -90,7 +90,7 @@ Kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's
 
 `root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu. Install software adalah contoh perintah yang memerlukan `sudo`.
 
-`apt`
+# apt
 ```terminal
 $ apt
 ```
@@ -176,7 +176,7 @@ Quit.
 ```terminal
 $ cat hello.json
 ```
-`cat` dengan argumen `hello,jon` digunakan untuk menampilkan isi `hello.json`.  
+`cat` dengan argumen `hello.json` digunakan untuk menampilkan isi `hello.json`.  
 
 Jika perintah di atas kamu jalankan, hasilnya seperti ini:
 ```terminal
