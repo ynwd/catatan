@@ -5,6 +5,8 @@ Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, m
 - Tahukah kamu, bagaimana huruf-huruf yang kamu ketik di keyboard akhirnya bisa tampil di layar?
 - Tahukah kamu, apa yang sebenarnya terjadi ketika kamu membuka sebuah url, [https://google.com](https://google.com) misalnya?
 - Tahukah kamu, bagaimana cara google mengirim data hingga sampai ke laptopmu?
+- Tahukah kamu, bagaimana programmer yang berjauhan, tanpa harus bertemu muka, bisa saling bekerja sama?
+- Tahukah kamu, bagaimana cara menyimpan ratusan, ribuan, hingga jutaan data ke komputer?
 
 Berikut ini adalah panduan singkat (sangat dasar) mengenai hal-hal yang wajib kamu ketahui sebelum membuat sebuah aplikasi. 
 
