@@ -10,7 +10,8 @@ Git adalah contoh *distributed version control system (DVCS)* yang digunakan dev
 Dan dengan sistem yang terdistribusi ini, kamu tidak perlu koneksi konstan ke repositori sentral. Kamu juga bisa bekerja di mana saja dan kapan saja secara asinkron. 
 
 > **Catatan:**  
-> Repositori adalah sebuah proyek yang berisi sejumlah file dan folder.
+> Repositori adalah sebuah proyek yang berisi sejumlah file dan folder.  
+> Asinkron artinya bisa dikerjakan tanpa menunggu proses lain selesai.
 
 Berikut ini adalah panduan singkat mengenai cara penggunaan git:
 
