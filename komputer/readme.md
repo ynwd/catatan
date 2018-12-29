@@ -37,5 +37,9 @@ Setelah pemrosesan selesai, infomasi yang sudah tersimpan di memori tersebut kem
 ## Penjelasan dalam bentuk animasi & audio-visual
 
 Jika masih bingung dengan penjelasan tekstual, kamu bisa mencoba untuk menyimak playlist berikut: 
-
-[![](https://i.ytimg.com/vi/OAx_6-wdslM/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+- [Introducing How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM)
+- [How Computers Work: What Makes a Computer, a Computer?](https://www.youtube.com/watch?v=mCq8-xTH7jA)
+- [How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
+- [How Computers Work: Circuits and Logic](https://www.youtube.com/watch?v=ZoqMiFKspAA)
+- [How Computers Work: CPU, Memory, Input & Output](https://www.youtube.com/watch?v=DKGZlaPlVLY)
+- [How Computers Work: Hardware and Software](https://www.youtube.com/watch?v=xnyFYiK2rSY)
