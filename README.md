@@ -12,3 +12,4 @@ Berikut ini adalah panduan singkat (sangat dasar) mengenai hal-hal yang wajib ka
 2. [Mengerti Cara Kerja Internet.](internet/readme.md)
 3. [Mengerti Cara Menggunakan Linux.](linux/readme.md)
 4. Mengerti Cara Menggunakan Git.
+5. Mengerti Konsep Database.
