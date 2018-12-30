@@ -46,31 +46,31 @@ Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https:/
 
 ```terminal
 # create a new directory, and initialize it with git-specific functions
-git init my-repo
+$ git init my-repo
 ```
 ```terminal
 # change into the `my-repo` directory
-cd my-repo
+$ cd my-repo
 ```
 ```terminal
 # create the first file in the project
-touch README.md
+$ touch README.md
 ```
 ```terminal
 # git isn't aware of the file, stage it
-git add README.md
+$ git add README.md
 ```
 ```terminal
 # take a snapshot of the staging area
-git commit -m "add README to initial commit"
+$ git commit -m "add README to initial commit"
 ```
 ```terminal
 # provide the path for the repository you created on github
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+$ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 ```terminal
 # push changes to github
-git push --set-upstream origin master
+$ git push --set-upstream origin master
 ```
 
 ## Selanjutnya
