@@ -5,7 +5,7 @@ Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, m
 - Bagaimana huruf-huruf yang kamu ketik di keyboard akhirnya bisa tampil di layar?
 - Apa yang sebenarnya terjadi ketika kamu membuka sebuah url, [https://google.com](https://google.com) misalnya?
 - Bagaimana cara google mengirim data hingga sampai ke laptopmu?
-- Bagaimana programmer yang berjauhan, tanpa harus bertemu muka, bisa saling bekerja sama?
+- Bagaimana programmer yang berjauhan, tanpa harus bertemu muka, bisa saling kerja sama?
 - Bagaimana cara menyimpan ratusan, ribuan, hingga jutaan data ke komputer?
 
 Berikut ini adalah panduan singkat (sangat dasar) mengenai hal-hal yang wajib kamu ketahui sebelum membuat sebuah aplikasi. 
