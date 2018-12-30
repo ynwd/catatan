@@ -44,4 +44,4 @@ Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https:/
 
 ## Contoh penggunaan git
 
-Sebelum mempraktekkan penggunaan git, kamu bisa mengikuti playlist tutorial yang bagus sekali dari Udacity: [How to Use Git and GitHub](https://www.youtube.com/watch?v=a7hifhLsWH4&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p&index=1).
+Sebelum mempraktekkan penggunaan git, kamu ikuti dulu playlist tutorial yang bagus sekali dari Udacity berikut: [How to Use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&index=1&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p).
