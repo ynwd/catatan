@@ -7,16 +7,6 @@ Panduan ini berisi cara praktis menggunakan linux untuk keperluan standar *progr
 - [Alasan Menggunakan Ubuntu](#alasan-menggunakan-linux)
 - [Cara Install Ubuntu](#instalasi-ubuntu)
 - [Cara Menggunakan Terminal](#cara-menggunakan-terminal)
-  - [mkdir](#mkdir) (make directory)
-  - [cd](#cd) (change directory)
-  - [pwd](#pwd) (show active location)
-  - [ls](#ls) (list)
-  - [sudo](#sudo) (super user do)
-  - [apt](#apt) (advanced package tool)
-  - [vim](#vim) (vi improved)
-  - [cat](#cat) (concatenate)
-  - [cp](#cp) (copy)
-  - [rm](#rm) (remove)
 - [Cara Menggunakan Vim](#cara-menggunakan-vim)
 
 # Alasan Menggunakan Ubuntu
@@ -45,25 +35,38 @@ Di dalam Ubuntu versi desktop, sebenarnya sudah terdapat user-interface grafis u
 
 ![ubuntu](ubuntu.png)
 
+Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperluan sehari-hari. 
+
+| Perintah | Keterangan |
+|--|--|
+| [mkdir](#mkdir)| *make directory*  |
+| [cd](#cd)      | *change directory* |
+| [pwd](#pwd)    | *print working directory* |
+| [ls](#ls)      | *list* |
+| [sudo](#sudo)  | *super user do* |
+| [apt](#apt)    | *advanced package tool* |
+| [vim](#vim)    | *vi improved* |
+| [cat](#cat)    | *concatenate* |
+| [cp](#cp)      | *copy* |
+| [rm](#rm)      | *remove* |
+
 > **Catatan**:   
 > Setiap command-line diawali dengan tanda `$` (dollar).  
 > Barisan teks yang tidak diawali dengan `$` adalah hasil atau respon command-line.
 
-Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperluan sehari-hari.
-
-# mkdir  
+## mkdir  
 ```terminal
 $ mkdir hello
 ```
 `mkdir` dengan argumen `hello` di atas digunakan untuk membuat folder bernama `hello`.
 
-# cd  
+## cd  
 ```terminal
 $ cd hello
 ```
 `cd` dengan argumen `hello` di atas digunakan untuk masuk ke folder bernama `hello`.
 
-# pwd
+## pwd
 ```terminal
 $ pwd
 ```  
@@ -73,7 +76,7 @@ Hasilnya:
 /home/yanu/hello
 ```
 
-# ls
+## ls
 ```terminal
 $ ls /apt
 ```
@@ -82,7 +85,7 @@ Hasilnya:
 ```terminal
 apt.conf.d  preferences.d  sources.list  sources.list.d  trusted.gpg  trusted.gpg.d
 ```
-# sudo 
+## sudo 
 ```terminal
 $ sudo
 ```
@@ -90,7 +93,7 @@ Kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's
 
 `root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu. Install software adalah contoh perintah yang memerlukan `sudo`.
 
-# apt
+## apt
 ```terminal
 $ apt
 ```
@@ -151,7 +154,7 @@ VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Apr 10 2018 21:31:58)
 Garbage after option argument: "-version"
 More info with: "vim -h"
 ```
-# vim
+## vim
 ### Cara menggunakan vim  
 ```terminal
 $ vimtutor
@@ -172,7 +175,7 @@ Copy-paste dan save code berikut:
 ```
 
 Quit.
-# cat
+## cat
 ```terminal
 $ cat hello.json
 ```
@@ -184,7 +187,7 @@ Jika perintah di atas kamu jalankan, hasilnya seperti ini:
   "text": "hello"
 }
 ```
-# cp
+## cp
 ```terminal
 $ cp hello.json world.json
 ```
@@ -198,7 +201,7 @@ Maka hasilnya seperti ini:
 hello.json  world.json
 ```
 Terlihat, ada dua file.
-# rm
+## rm
 ```terminal
 $ rm world.json
   ```
