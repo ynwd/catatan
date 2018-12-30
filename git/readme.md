@@ -44,4 +44,35 @@ Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https:/
 
 ## Contoh penggunaan git
 
-Sebelum mempraktekkan penggunaan git, kamu ikuti dulu playlist tutorial berikut: [Git and GitHub with Briana Swift](https://www.youtube.com/watch?v=47E-jcuQz5c&index=1&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4).
+```terminal
+# create a new directory, and initialize it with git-specific functions
+git init my-repo
+```
+```terminal
+# change into the `my-repo` directory
+cd my-repo
+```
+```terminal
+# create the first file in the project
+touch README.md
+```
+```terminal
+# git isn't aware of the file, stage it
+git add README.md
+```
+```terminal
+# take a snapshot of the staging area
+git commit -m "add README to initial commit"
+```
+```terminal
+# provide the path for the repository you created on github
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
+```terminal
+# push changes to github
+git push --set-upstream origin master
+```
+
+## Selanjutnya
+- Penjelasan lebih detail dan contoh penggunaan git yg lain bisa kamu temukan di sini: [git-handbook](https://guides.github.com/introduction/git-handbook/#github)
+- Versi video bisa kamu ikuti di sini: [Git and GitHub with Briana Swift](https://www.youtube.com/watch?v=47E-jcuQz5c&index=1&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4).
