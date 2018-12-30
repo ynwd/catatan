@@ -18,14 +18,15 @@ Berikut ini adalah panduan singkat mengenai cara penggunaan git:
 - [Cara Install git](#cara-install-git)
 - [Perintah dasar git](#perintah-dasar-git)
 - [Contoh penggunaan git](#contoh-penggunaan-git)
-
 ## Cara install git
-
+Dengan asumsi kamu sudah [install ubuntu](../linux/readme.md), berikut ini adalah cara install git:
 ```terminal
 $ sudo apt install git -y
 ```
 
 ## Perintah dasar git
+   
+Berikut ini adalah perintah-perintah dasar yang akan sering kamu gunakan.
 
 | Perintah   | Digunakan untuk   |
 |------------|-------------------|
@@ -39,4 +40,8 @@ $ sudo apt install git -y
 |`git pull`  | memperbarui repositori lokal dengan versi remote paling baru. |
 |`git push`  | memperbarui repositori remote dengan versi lokal paling baru. |
 
-Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https://git-scm.com/docs)
+Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https://git-scm.com/docs).   
+
+## Contoh penggunaan git
+
+Sebelum mempraktekkan penggunaan git, kamu bisa mengikuti playlist tutorial yang bagus sekali dari Udacity: [How to Use Git and GitHub](https://www.youtube.com/watch?v=a7hifhLsWH4&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p&index=1).
