@@ -44,32 +44,32 @@ Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https:/
 
 ## Contoh penggunaan git
 
+*create a new directory, and initialize it with git-specific functions*
 ```terminal
-# create a new directory, and initialize it with git-specific functions
 $ git init my-repo
 ```
+*change into the `my-repo` directory*
 ```terminal
-# change into the `my-repo` directory
 $ cd my-repo
 ```
+*create the first file in the project*
 ```terminal
-# create the first file in the project
 $ touch README.md
 ```
+*git isn't aware of the file, stage it*
 ```terminal
-# git isn't aware of the file, stage it
 $ git add README.md
 ```
+*take a snapshot of the staging area*
 ```terminal
-# take a snapshot of the staging area
 $ git commit -m "add README to initial commit"
 ```
+*provide the path for the repository you created on github*
 ```terminal
-# provide the path for the repository you created on github
 $ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
+*push changes to github*
 ```terminal
-# push changes to github
 $ git push --set-upstream origin master
 ```
 
