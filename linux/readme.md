@@ -54,6 +54,9 @@ Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperlu
 > Setiap command-line diawali dengan tanda `$` (dollar).  
 > Barisan teks yang tidak diawali dengan `$` adalah hasil atau respon command-line.
 
+**Skenarionya:** kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
+Kamu lalu membuat salinan file tersebut ke file baru bernama `world.json`. Dan di akhir cerita, file tersebut kamu hapus.
+
 ## mkdir  
 ```terminal
 $ mkdir hello
@@ -156,12 +159,11 @@ More info with: "vim -h"
 ```
 ## vim
 ### Cara menggunakan vim  
+Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah berikut untuk step-by-step tutorial-nya.  
 ```terminal
 $ vimtutor
   ```
-Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah di atas untuk step-by-step tutorial-nya.  
-
-Jika sudah paham, buat file `hello.json`
+Sudah paham? Jika sudah, buat file `hello.json`
 
   ```terminal
 $ vim hello.json
