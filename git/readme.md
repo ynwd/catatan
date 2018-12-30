@@ -7,7 +7,7 @@ Git adalah contoh *distributed version control system (DVCS)* yang digunakan dev
 - Kapan perubahan itu terjadi?
 - Mengapa perubahan itu dibutuhkan?
 
-Dan dengan sistem yang terdistribusi ini, kamu tidak perlu koneksi konstan ke repositori sentral. Kamu juga bisa bekerja di mana saja dan kapan saja secara asinkron. 
+Dan dengan sistem yang terdistribusi ini, kamu tidak harus terkoneksi ke repositori sentral. Kamu juga bisa bekerja di mana saja dan kapan saja secara asinkron. 
 
 > **Catatan:**  
 > Repositori adalah sebuah proyek yang berisi sejumlah file dan folder.  
@@ -44,4 +44,4 @@ Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https:/
 
 ## Contoh penggunaan git
 
-Sebelum mempraktekkan penggunaan git, kamu ikuti dulu playlist tutorial yang bagus sekali dari Udacity berikut: [How to Use Git and GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&index=1&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p).
+Sebelum mempraktekkan penggunaan git, kamu ikuti dulu playlist tutorial berikut: [Git and GitHub with Briana Swift](https://www.youtube.com/watch?v=47E-jcuQz5c&index=1&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4).
