@@ -4,19 +4,22 @@
 
 Panduan ini berisi cara praktis menggunakan linux untuk keperluan standar *programming*. Distro yang akan kamu gunakan adalah [ubuntu](https://www.ubuntu.com/desktop/developers). 
 
-- [Alasan Menggunakan Ubuntu](#alasan-menggunakan-linux)
+- [Alasan Menggunakan Ubuntu](#alasan-menggunakan-ubuntu)
 - [Cara Install Ubuntu](#instalasi-ubuntu)
 - [Cara Menggunakan Terminal](#cara-menggunakan-terminal)
-- [Cara Menggunakan Vim](#cara-menggunakan-vim)
+  - [Contoh Penggunaan Command Line](#contoh-penggunaan-command-line)
+  - [Contoh penggunaan sudo dan apt](#contoh-penggunaan-sudo-dan-apt)
+  - [Cara Menggunakan Vim](#cara-menggunakan-vim)
+ 
 
-# Alasan Menggunakan Ubuntu
+## Alasan Menggunakan Ubuntu
 
 ![stats](https://assets.ubuntu.com/v1/a9948f53-desktop_graph.png)  
 *Source: Eclipse Community survey, 2014, Stackoverflow annual survey 2016*
 
 Alasan utama memilih [ubuntu](https://pages.ubuntu.com/rs/066-EOV-335/images/Desktop_Developers_WP_Canonical_Final.pdf), adalah `freedom`. Kamu diperbolehkan men-*download* dan meng-*install*-nya tanpa membayar apapun. Ubuntu juga sudah menyediakan driver hardware standar (seperti USB, LAN, Wifi) dan driver untuk menjalankan file audio dan video (seperti MP3 dan AVI).
 
-# Instalasi Ubuntu
+## Instalasi Ubuntu
 
 > **Prasyarat**:  
 > • Laptop tersambung dengan listrik  
@@ -29,7 +32,7 @@ Pada gambar di bawah ini terdapat tautan yang berisi bagaimana cara meng-install
 [![ubuntu](https://tutorials.ubuntu.com/es6-bundled/src/codelabs/tutorial-install-ubuntu-desktop/img/747a83dc503cd86c.png)](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)
 
 
-# Cara Menggunakan Terminal
+## Cara Menggunakan Terminal
 
 Di dalam Ubuntu versi desktop, sebenarnya sudah terdapat user-interface grafis untuk melakukan operasi-operasi standar, seperti install software, membuat dan men-delete folder & file, dsb. Tapi karena kamu ingin jadi developer, maka command-line di terminal, harus kamu ketahui. Akan ada banyak tools yang user-interface-nya memakainya. 
 
@@ -54,7 +57,8 @@ Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperlu
 > Setiap command-line diawali dengan tanda `$` (dollar).  
 > Barisan teks yang tidak diawali dengan `$` adalah hasil atau respon command-line.
 
-**Skenarionya:** kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
+## Contoh Penggunaan Command Line
+Skenarionya kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
 Kamu lalu membuat salinan file tersebut ke file baru bernama `world.json`. Dan di akhir cerita, file tersebut kamu hapus.
 
 ## mkdir  
