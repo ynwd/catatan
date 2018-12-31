@@ -28,11 +28,11 @@ Komputer khusus yang disebut router, kemudian memindahkan paket-paket tersebut m
 Berikut ini adalah video yang berisi penjelasan singkat tentang cara kerja internet. Kontributornya berasal dari profesional yang bekerja di perusahaan-perusahaan terkenal.
 
 - [What is the internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
+- [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM)
 - [The Internet: IP Addresses & DNS](https://www.youtube.com/watch?v=5o8CwafCxnU)
 - [The Internet: HTTP & HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
-- [The Internet: How Search Works](https://www.youtube.com/watch?v=LVV_93mBfSU)
-- [The Internet: Wires, Cables & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM)
 - [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)
+- [The Internet: How Search Works](https://www.youtube.com/watch?v=LVV_93mBfSU)
 - [The Internet: Encryption & Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs)
 - [The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
 - [Images, Pixels and RGB](https://www.youtube.com/watch?v=15aqFQQVBWU)
