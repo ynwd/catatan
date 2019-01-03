@@ -8,6 +8,7 @@ Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, m
 - Bagaimana programmer yang berjauhan, tanpa harus bertemu muka, bisa saling kerja sama?
 - Bagaimana cara menyimpan ratusan, ribuan, hingga jutaan data ke komputer?
 
+## Prasyarat
 Berikut ini adalah panduan singkat (sangat dasar) mengenai hal-hal yang wajib kamu ketahui sebelum membuat sebuah aplikasi. 
 
 1. [Mengerti Cara Kerja Komputer.](komputer/readme.md)
