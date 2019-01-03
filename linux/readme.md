@@ -42,16 +42,16 @@ Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperlu
 
 | Perintah | Keterangan |
 |--|--|
-| [mkdir](#mkdir)| *make directory*  |
-| [cd](#cd)      | *change directory* |
-| [pwd](#pwd)    | *print working directory* |
-| [ls](#ls)      | *list* |
-| [sudo](#sudo)  | *super user do* |
-| [apt](#apt)    | *advanced package tool* |
-| [vim](#vim)    | *vi improved* |
-| [cat](#cat)    | *concatenate* |
-| [cp](#cp)      | *copy* |
-| [rm](#rm)      | *remove* |
+| `mkdir`| *make directory*  |
+| `cd`   | *change directory* |
+| `pwd`  | *print working directory* |
+| `ls`   | *list* |
+| `sudo` | *super user do* |
+| `apt`  | *advanced package tool* |
+| `vim`  | *vi improved* |
+| `cat`  | *concatenate* |
+| `cp`   | *copy* |
+| `rm`   | *remove* |
 
 > **Catatan**:   
 > Setiap command-line diawali dengan tanda `$` (dollar).  
@@ -61,33 +61,29 @@ Berikut ini adalah perintah-perintah dasar yang biasa dipergunakan untuk keperlu
 Skenarionya kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
 Kamu lalu membuat salinan file tersebut ke file baru bernama `world.json`. Dan di akhir cerita, file tersebut kamu hapus.
 
-## mkdir  
+Buat folder bernama `hello`.
 ```terminal
 $ mkdir hello
 ```
-`mkdir` dengan argumen `hello` di atas digunakan untuk membuat folder bernama `hello`.
-
-## cd  
+Masuk ke folder bernama `hello`.
 ```terminal
 $ cd hello
 ```
-`cd` dengan argumen `hello` di atas digunakan untuk masuk ke folder bernama `hello`.
 
-## pwd
+Cari tahu info tentang direktori kerja yang digunakan saat ini.
 ```terminal
 $ pwd
 ```  
-Digunakan untuk mengetahui lokasi folder yang digunakan saat ini.
+
 Hasilnya:
 ```terminal
 /home/yanu/hello
 ```
 
-## ls
+Cari tahu isi sebuah folder bernama `/apt`
 ```terminal
 $ ls /apt
 ```
-Digunakan untuk mengetahui isi sebuah folder. Pada contoh di atas, `ls` dipakai untuk mengetahui isi folder `/apt`.  
 Hasilnya:
 ```terminal
 apt.conf.d  preferences.d  sources.list  sources.list.d  trusted.gpg  trusted.gpg.d
@@ -161,7 +157,6 @@ VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Apr 10 2018 21:31:58)
 Garbage after option argument: "-version"
 More info with: "vim -h"
 ```
-## vim
 ### Cara menggunakan vim  
 Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah berikut untuk step-by-step tutorial-nya.  
 ```terminal
@@ -181,11 +176,11 @@ Copy-paste dan save code berikut:
 ```
 
 Quit.
-## cat
+
+Tampilkan isi `hello.json`.  
 ```terminal
 $ cat hello.json
 ```
-`cat` dengan argumen `hello.json` digunakan untuk menampilkan isi `hello.json`.  
 
 Jika perintah di atas kamu jalankan, hasilnya seperti ini:
 ```terminal
@@ -193,11 +188,12 @@ Jika perintah di atas kamu jalankan, hasilnya seperti ini:
   "text": "hello"
 }
 ```
-## cp
+
+Copy file `hello.json` ke file baru bernama `world.json`.  
 ```terminal
 $ cp hello.json world.json
 ```
-Digunakan untuk copy file `hello.json` ke file baru bernama `world.json`.  
+
 Kalau kamu ketik:
   ```terminal
   $ ls
@@ -207,8 +203,8 @@ Maka hasilnya seperti ini:
 hello.json  world.json
 ```
 Terlihat, ada dua file.
-## rm
+
+Hapus (remove) file `world.json`
 ```terminal
 $ rm world.json
   ```
-`rm` dengan argumen `world.json` di atas dipergunakan untuk menghapus (remove) file `world.json`
