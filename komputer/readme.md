@@ -34,7 +34,7 @@ Penjelasan singkat mengenai Sistem Operasi, bisa kamu lihat di sini:
 Setelah pemrosesan selesai, infomasi yang sudah tersimpan di memori tersebut kemudian di-transfer ke perangkat output. Layar monitor, speaker, printer, robot adalah contoh-contoh peralatan output. Layar monitor, misalnya. Ia berguna untuk mengubah informasi biner menjadi gambar. Sedangkan speaker berguna untuk mengubah informasi biner menjadi suara.
 
 
-## Penjelasan dalam bentuk animasi & audio-visual
+## Selanjutnya
 
 Jika masih bingung dengan penjelasan tekstual, kamu bisa mencoba untuk menyimak playlist berikut: 
 - [Introducing How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM)
