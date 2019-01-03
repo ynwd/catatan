@@ -88,81 +88,8 @@ Hasilnya:
 ```terminal
 apt.conf.d  preferences.d  sources.list  sources.list.d  trusted.gpg  trusted.gpg.d
 ```
-## sudo 
-```terminal
-$ sudo
-```
-Kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's permission`*.  
 
-`root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu. Install software adalah contoh perintah yang memerlukan `sudo`.
-
-## apt
-```terminal
-$ apt
-```
-Berguna untuk menangani penambahan dan penghapusan perangkat lunak (package).
-
-### Contoh penggunaan sudo dan apt: 
-Misalnya kamu ingin coba membuat file bernama `hello.json` via terminal menggunakan file editor bernama `vim`. Tapi biasanya `vim` belum terpasang.
-
-```terminal
-$ vim hello.json
-```
-Hasilnya:
-```terminal
-bash: vim: command not found
-```
-
-Maka kamu harus install dulu vim tersebut memakai `apt`:
-
-```terminal
-$ apt install vim  
-```
-Hasilnya:
-```terminal
-E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
-E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
-```
-
-Sekarang tambahkan `sudo` sebelum command line:
-```terminal
-$ sudo apt install vim
-```
-Hasilnya:
-```terminal
-Reading package lists... Done
-Building dependency tree       
-Reading state information... Done
-The following additional packages will be installed:
-  libpython3.6 vim-common vim-runtime xxd
-Suggested packages:
-  ctags vim-doc vim-scripts
-The following NEW packages will be installed:
-  libpython3.6 vim vim-common vim-runtime xxd
-0 upgraded, 5 newly installed, 0 to remove and 19 not upgraded.
-Need to get 8123 kB of archives.
-After this operation, 37.3 MB of additional disk space will be used.
-Do you want to continue? [Y/n]
-```
-
-Enter `Y` untuk melanjutkan proses.   
-Setelah instalasi selesai, ketik perintah ini untuk memastikan instalasi berhasil:
-
-```terminal
-$ vim -version
-```
-Hasilnya:
-```terminal
-VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Apr 10 2018 21:31:58)
-Garbage after option argument: "-version"
-More info with: "vim -h"
-```
-### Cara menggunakan vim  
-Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah berikut untuk step-by-step tutorial-nya.  
-```terminal
-$ vimtutor
-  ```
-Sudah paham? Jika sudah, buat file `hello.json`
+Buat file `hello.json` **(jika belum install vim, lihat [catatan](#catatan))**
 
   ```terminal
 $ vim hello.json
@@ -208,3 +135,82 @@ Hapus (remove) file `world.json`
 ```terminal
 $ rm world.json
   ```
+  
+## Catatan
+
+## sudo 
+```terminal
+$ sudo
+```
+Kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's permission`*.  
+
+`root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu. Install software adalah contoh perintah yang memerlukan `sudo`.
+
+## apt
+```terminal
+$ apt
+```
+Berguna untuk menangani penambahan dan penghapusan perangkat lunak (package).
+
+### Contoh penggunaan sudo dan apt: 
+Misalnya kamu ingin coba membuat file bernama `hello.json` via terminal menggunakan file editor bernama `vim`. Tapi biasanya `vim` belum terpasang.
+
+```terminal
+$ vim hello.json
+```
+Hasilnya:
+```terminal
+bash: vim: command not found
+```
+
+Maka kamu harus install dulu vim tersebut memakai `apt`:
+
+```terminal
+$ apt install vim  
+```
+Hasilnya:
+```terminal
+E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
+E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+```
+
+### Cara install vim
+Sekarang tambahkan `sudo` sebelum command line:
+```terminal
+$ sudo apt install vim
+```
+Hasilnya:
+```terminal
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following additional packages will be installed:
+  libpython3.6 vim-common vim-runtime xxd
+Suggested packages:
+  ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libpython3.6 vim vim-common vim-runtime xxd
+0 upgraded, 5 newly installed, 0 to remove and 19 not upgraded.
+Need to get 8123 kB of archives.
+After this operation, 37.3 MB of additional disk space will be used.
+Do you want to continue? [Y/n]
+```
+
+Enter `Y` untuk melanjutkan proses.   
+Setelah instalasi selesai, ketik perintah ini untuk memastikan instalasi berhasil:
+
+```terminal
+$ vim -version
+```
+Hasilnya:
+```terminal
+VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Apr 10 2018 21:31:58)
+Garbage after option argument: "-version"
+More info with: "vim -h"
+```
+### Cara menggunakan vim  
+Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah berikut untuk step-by-step tutorial-nya.  
+```terminal
+$ vimtutor
+  ```
+Pastikan kamu paham perintah dasar ini sebelum lanjut.
