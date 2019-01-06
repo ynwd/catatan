@@ -23,6 +23,8 @@ Komputer kamu lalu meminta google untuk mengirim sebuah halaman website. Maka se
 
 Komputer khusus yang disebut router, kemudian memindahkan paket-paket tersebut melalui jalur-jalur yang paling cepat. Ketika paket-paket itu sudah sampai ke laptop kita, TCP merakit kembali paket-paket itu menjadi data utuh.
 
+[![Image](https://img.youtube.com/vi/zhlMLRNY5-4/0.jpg)](https://www.youtube.com/watch?v=zhlMLRNY5-4&t=10s)
+
 ## Selanjutnya
 
 Berikut ini adalah video yang berisi penjelasan singkat tentang cara kerja internet. Kontributornya berasal dari profesional yang bekerja di perusahaan-perusahaan terkenal.
