@@ -2,7 +2,7 @@
 
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun sesuai dengan tingkat kesulitan. Dimulai dari tingkat yang paling dasar.
 
-- [Prasyarat](prasyarat.md)   
+- Prasyarat   
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
