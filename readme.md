@@ -27,7 +27,6 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Install Nginx Web Server](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/#official-debian-ubuntu-packages)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
-  - [Install Mongo Database Server](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition-using-deb-packages)
 - HTML
 - CSS
 - JavaScript
@@ -41,6 +40,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - Membuat REST API Menggunakan Fastify
   - Unit Test Menggunakan Mocha, Chai dan Supertest
   - Menyimpan Data Menggunakan Mongoose
+    - [Install Mongo Database Server](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition-using-deb-packages)
 - Docker
 - Continuous Integration
 - Microservises
