@@ -9,10 +9,13 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
-  - Memahami HTML & CSS
-  - [Mengerti Cara Menggunakan Git.](git/readme.md)
-  - Memahami JavaScript
-  - Memahami Konsep Database
+- **Persiapan**
+  - Install Code Editor
+  - Install Nginx Web Server 
+  - Install Mongose Database Server
+- HTML
+- CSS
+- JavaScript
 - [**Node.js**](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
   - Pengenalan Singkat Node.js & NPM
