@@ -1,15 +1,5 @@
 # Panduan Singkat Node.js
 
- **Prasyarat:**
-- [ ] Sudah memahami cara kerja komputer.
-- [ ] Sudah memahami cara kerja internet.
-- [ ] Sudah memahami cara menggunakan linux.
-- [ ] Sudah memahami cara menggunakan git.
-- [ ] Sudah memahami konsep database.
-
-Jika belum memenuhi prasyarat di atas, buka tautan berikut: [prasyarat](../prasyarat.md).
-
-
 Berikut ini adalah nama-nama folder panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, pembuatan REST API, pembuatan unit test, koneksi ke database, penggunaan docker, dan arsitektur microservice. 
 
 - [Persiapan dan Instalasi](anoa/readme.md)
