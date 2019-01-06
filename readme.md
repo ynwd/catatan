@@ -30,7 +30,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
 - HTML
 - CSS
 - JavaScript
-- [**Node.js**](node.js/readme.md)   
+- [**Node.js**](node.js/)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
     - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
     - [Node.js Hello World](node.js/anoa/readme.md#nodejs-hello-world)
