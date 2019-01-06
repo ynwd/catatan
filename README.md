@@ -1,6 +1,6 @@
 # Mulai di sini
 
-Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, menyimpannya, dan start server, sebenarnya sudah cukup untuk membuat aplikasi. Tapi tahukah kamu, bagaimanakah cara kerja semua sistem itu? 
+Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, menyimpannya, dan start server, sebenarnya sudah cukup untuk membuat aplikasi. Tapi tahukah kamu, bagaimanakah cara kerjanya? 
 
 - Bagaimana huruf-huruf yang kamu ketik di keyboard akhirnya bisa tampil di layar?
 - Apa yang sebenarnya terjadi ketika kamu membuka sebuah url, [https://google.com](https://google.com) misalnya?
