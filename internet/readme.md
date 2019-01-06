@@ -15,13 +15,15 @@ Misalnya:
 - yahoo.com mempunyai IP Address: 72.30.35.10
 
 ## Contoh kasus
-Misalnya komputer kamu ingin mengakses http://google.com menggunakan browser, maka DNS server yang terhubung dengan komputer kamu (sebut saja DNS A), akan mencari tahu nama google.com itu terkait dengan IP address berapa. 
+Misalnya komputer kamu (IP Address 192.168.100.2) ingin mengakses http://example.com menggunakan browser, maka DNS server yang terhubung dengan komputer kamu (sebut saja DNS A), akan mencari tahu nama google.com itu terkait dengan IP address berapa. 
 
-Jika belum memiliki datanya, maka DNS A akan bertanya pada DNS server lain (sebut saja DNS B). Ketika DNS B sudah memberikan respon balik, maka DNS A segera mengirimkan jawaban pada komputer kamu, bahwa google.com punya alamat IP 172.217.194.113. Dengan alamat IP inilah komputer kamu terhubung dengan komputer google.
+Jika belum memiliki datanya, maka DNS A akan bertanya pada DNS server lain (sebut saja DNS B). Ketika DNS B sudah memberikan respon balik, maka DNS A segera mengirimkan jawaban pada komputer kamu, bahwa google.com punya alamat IP 10.10.10.2. Dengan alamat IP inilah komputer kamu terhubung dengan komputer `example.com`.
 
-Komputer kamu lalu meminta google untuk mengirim sebuah halaman website. Maka server google pun mengirim data menggunakan bahasa HTTP. Data itu kemudian dipecah menjadi paket-paket kecil. 
+Komputer kamu via browser lalu meminta `example.com` untuk mengirim sebuah halaman website. Maka server `example.com` pun mengirim data menggunakan bahasa HTTP. 
 
-Komputer khusus yang disebut router, kemudian memindahkan paket-paket tersebut melalui jalur-jalur yang paling cepat. Ketika paket-paket itu sudah sampai ke laptop kita, TCP merakit kembali paket-paket itu menjadi data utuh.
+Secara singkat, data itu kemudian dipecah menjadi paket-paket kecil. Komputer khusus yang disebut router, kemudian memindahkan paket-paket tersebut melalui jalur-jalur yang paling cepat. 
+
+Ketika paket-paket itu sudah sampai ke laptop kita, TCP merakit kembali paket-paket itu menjadi data utuh.
 
 [![Image](https://img.youtube.com/vi/zhlMLRNY5-4/0.jpg)](https://www.youtube.com/watch?v=zhlMLRNY5-4&t=10s)
 
