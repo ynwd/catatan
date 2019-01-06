@@ -29,6 +29,9 @@ Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan 
     - [Contoh penggunaan git](git#contoh-penggunaan-git)
   - [Install Code Editor](persiapan.md#install-vscode)
   - [Install Nginx Web Server](nginx/readme.md)
+    - [Cara Install Nginx](nginx/readme.md#cara-install-nginx)
+    - [Cara Menjalankan Nginx](nginx/readme.md#cara-menjalankan-nginx)
+    - [Konfigurasi Nginx](nginx/readme.md#konfigurasi-nginx)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
 - HTML
