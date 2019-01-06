@@ -13,6 +13,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Mengerti Cara Menggunakan Git.](git/readme.md)
   - Memahami JavaScript
   - Memahami Konsep Database
+- PHP
 - [Node.js](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
   - Pengenalan Singkat Node.js & NPM
