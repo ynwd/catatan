@@ -1,6 +1,6 @@
 # Jalur Pembelajaran
 
-Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang berasal dari mahasiswa di luar jurusan teknik informatika. Banyak diantara mereka yang kebingungan: "**kalau ingin membuat sebuah aplikasi, mulainya dari mana?**"
+Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang berasal dari mahasiswa di luar jurusan teknik informatika -- banyak diantara mereka yang kebingungan: "**kalau ingin membuat sebuah aplikasi, mulainya dari mana?**"
 
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gender, atau jurusan. 
 
