@@ -17,7 +17,9 @@ Berikut ini adalah panduan singkat mengenai cara penggunaan git:
 
 - [Cara Install git](#cara-install-git)
 - [Perintah dasar git](#perintah-dasar-git)
+- [Buat Account di Github.com](#buat-account-di-githubcom)
 - [Contoh penggunaan git](#contoh-penggunaan-git)
+
 ## Cara install git
 Dengan asumsi kamu sudah [install ubuntu](../linux/readme.md), berikut ini adalah cara install git:
 ```terminal
@@ -42,7 +44,7 @@ Berikut ini adalah perintah-perintah dasar yang akan sering kamu gunakan.
 
 Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https://git-scm.com/docs).   
 
-## Buat Account di Github
+## Buat Account di Github.com
 - Account Github nanti akan kamu pakai untuk sharing code & acuan deployment ke server.
 - Isi dan proses intruksi halaman ini: [https://github.com/join](https://github.com/join)
 
