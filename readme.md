@@ -26,7 +26,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Install Code Editor](persiapan.md#install-vscode)
   - Install Nginx Web Server 
   - [Install Now](persiapan.md#install-now)
-    - [Buat Account di Zeit.co & Github.com](persiapan.md#buat-account-di-github-dan-zeit)
+    - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
   - Install Mongose Database Server
 - HTML
 - CSS
