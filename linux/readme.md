@@ -90,7 +90,7 @@ Hasilnya:
 apt.conf.d  preferences.d  sources.list  sources.list.d  trusted.gpg  trusted.gpg.d
 ```
 
-Buat file `hello.json` **(jika belum install vim, lihat [cara install aplikasi](#cara-install-aplikasi))**
+Buat file `hello.json`. Jika belum install vim, lihat [cara install aplikasi](#cara-install-aplikasi).
 
   ```terminal
 $ vim hello.json
