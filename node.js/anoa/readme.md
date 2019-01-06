@@ -25,3 +25,4 @@ $ npm --version
 Untuk sistem operasi lain, silahkan cek intruksinya di sini:
 [https://nodejs.org/en/download/package-manager/](https://nodejs.org/en/download/package-manager/)
 
+[nodejs]: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png
