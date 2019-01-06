@@ -1,6 +1,9 @@
 # Koleksi Catatan Seputar Programming
 
-Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Dimulai dari tingkat yang paling dasar. Item yang tautannya tidak aktif, kontennya memang belum tersedia. *Stay tuned for more.*
+Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Dimulai dari tingkat yang paling dasar. 
+
+> **Catatan:**   
+> Item yang tautannya tidak aktif, kontennya memang belum tersedia. *Stay tuned for more.*
 
 - Prasyarat   
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
