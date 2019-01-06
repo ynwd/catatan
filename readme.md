@@ -21,6 +21,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Install Git](git/readme.md)
     - [Cara Install git](git#cara-install-git)
     - [Perintah dasar git](git#perintah-dasar-git)
+    - [Buat Account di Github.com](git#buat-account-di-githubcom)
     - [Contoh penggunaan git](git#contoh-penggunaan-git)
   - [Install Code Editor](persiapan.md#install-vscode)
   - Install Nginx Web Server 
