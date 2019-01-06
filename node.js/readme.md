@@ -10,11 +10,10 @@ Berikut ini adalah panduan singkat node.js. Dari proses instalasi, deployment ke
   - [Menjalankan Web Server dengan NPM](anoa/readme.md#menjalankan-web-server-dengan-npm)
   - [Deploy ke Zeit Server](anoa/readme.md#deploy-ke-zeit-server)
 - Pengenalan Singkat Node.js & NPM
+- Menyimpan Data Menggunakan Mongoose
+  - [Install Mongo Database Server](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition-using-deb-packages)
 - Membuat REST API Menggunakan Fastify
 - Unit Test Menggunakan Mocha, Chai dan Supertest
-- Menyimpan Data Menggunakan Mongoose
-- Docker untuk Pengembangan Aplikasi
-- Microservice Arsitektur
 
 [nodejs]: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png
 
