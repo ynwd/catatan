@@ -24,7 +24,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
     - [Buat Account di Github.com](git#buat-account-di-githubcom)
     - [Contoh penggunaan git](git#contoh-penggunaan-git)
   - [Install Code Editor](persiapan.md#install-vscode)
-  - Install Nginx Web Server 
+  - [Install Nginx Web Server](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/#official-debian-ubuntu-packages)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
   - Install Mongose Database Server
