@@ -21,6 +21,10 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Install Code Editor](persiapan.md#install-vscode)
   - Install Nginx Web Server 
   - Install Mongose Database Server
+- [**Git**](git/readme.md)
+  - [Cara Install git](git#cara-install-git)
+  - [Perintah dasar git](git#perintah-dasar-git)
+  - [Contoh penggunaan git](git#contoh-penggunaan-git)
 - HTML
 - CSS
 - JavaScript
