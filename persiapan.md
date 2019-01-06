@@ -35,10 +35,7 @@ $ now --version
 12.1.14
 ```
 
-## Buat Account di Github dan Zeit
-
-- Account Github nanti akan kamu pakai untuk sharing code & acuan deployment ke server.
-- Isi dan proses intruksi halaman ini: [https://github.com/join](https://github.com/join)
+## Buat Account Zeit
 - Account Zeit nanti akan kamu pakai untuk upload dan deploy ke server yang bisa diakses dari mana pun (worldwide).
 - Isi dan proses intruksi halaman ini: [https://zeit.co/signup](https://zeit.co/signup)
 
