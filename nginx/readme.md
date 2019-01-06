@@ -18,7 +18,7 @@ $ sudo apt install nginx
 
 Untuk menjalankan nginx:
 ```terminal
-$ sudo nginx -s reload
+$ sudo nginx
 ```
 
 Buka browser dengan url http://localhost. Hasilnya:
