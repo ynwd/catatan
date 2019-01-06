@@ -42,6 +42,11 @@ Berikut ini adalah perintah-perintah dasar yang akan sering kamu gunakan.
 
 Daftar perintah lain bisa kamu akses di sini: [https://git-scm.com/docs](https://git-scm.com/docs).   
 
+## Buat Account di Github
+- Account Github nanti akan kamu pakai untuk sharing code & acuan deployment ke server.
+- Isi dan proses intruksi halaman ini: [https://github.com/join](https://github.com/join)
+
+
 ## Contoh penggunaan git
 
 Buat direktori dan inisialisasi proyek git.
