@@ -2,7 +2,7 @@
 
 ![nodejs][nodejs]
 
-Berikut ini adalah panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, pembuatan REST API, pembuatan unit test, koneksi ke database, penggunaan docker, dan arsitektur microservice. 
+Berikut ini adalah panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, koneksi ke database, pembuatan REST API, dan pembuatan unit test.
 
 - [Persiapan dan Instalasi](anoa/readme.md)
   - [Install Node.js](anoa/readme.md#install-nodejs)
