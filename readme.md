@@ -2,7 +2,7 @@
 
 Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang berasal dari mahasiswa di luar jurusan teknik informatika. Banyak diantara mereka yang kebingungan: "**kalau ingin membuat sebuah aplikasi, mulainya dari mana?**"
 
-Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gendernya apa, atau kuliah di lulusan apa. 
+Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gendernya, atau jurusan. 
 
 Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Jangan lewatkan satupun link (tautan), kecuali kamu sudah benar-benar memahami kontennya.
 
