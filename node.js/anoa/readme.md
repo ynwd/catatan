@@ -11,8 +11,6 @@ Semua intruksi instalasi command line panduan ini seharusnya berjalan dengan bai
 
 ## Install Node.js
 
-![nodejs][nodejs]
-
 ```terminal
 $ curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
 $ sudo bash nodesource_setup.sh 
@@ -219,5 +217,3 @@ $ now
 Sekarang, visit [https://anoa-7gf6ogot9.now.sh](https://anoa-7gf6ogot9.now.sh).
 
 ![zeit_hello_world](img/zeit_hello_world.png)
-
-[nodejs]: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png
