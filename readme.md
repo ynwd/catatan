@@ -18,5 +18,5 @@
   - Docker untuk Pengembangan Aplikasi
   - Microservice Arsitektur
 - Android
-- Rust
 - Python
+- Rust
