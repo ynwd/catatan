@@ -91,6 +91,7 @@ $ now --version
 - Account Zeit nanti akan kamu pakai untuk upload dan deploy ke server yang bisa diakses dari mana pun (worldwide).
 - Isi dan proses intruksi halaman ini: [https://zeit.co/signup](https://zeit.co/signup)
 
+## Selanjutnya
 Jika semua sudah siap sudah, mari kita mulai ke langkah [selanjutnya](getting-started.md)
 
 [nodejs]: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png
