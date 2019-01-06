@@ -5,7 +5,10 @@
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
   - [Mengerti Cara Menggunakan Git.](git/readme.md)
-  - Mengerti Konsep Database.
+- HTML
+- CSS
+- JavaScript
+- Database
 - [Node.js](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
   - Pengenalan Singkat Node.js & NPM
