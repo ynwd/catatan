@@ -25,4 +25,5 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
 - Java
 - Android
 - Python
+- Go
 - Rust
