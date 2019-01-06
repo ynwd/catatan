@@ -7,10 +7,9 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
   - [Mengerti Cara Menggunakan Git.](git/readme.md)
-- HTML
-- CSS
-- JavaScript
-- Database
+  - [Memahami HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+  - [Memahami JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
+  - [Memahami Konsep Database](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Node.js](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
   - Pengenalan Singkat Node.js & NPM
