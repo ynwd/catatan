@@ -36,7 +36,6 @@ Buka file `/etc/nginx/sites-available/default`. Hapus semua konten. Lalu paste d
 server {
     root /var/www/html;
     index index.html;
-
     location / {
         try_files $uri $uri/ =404;
     }
