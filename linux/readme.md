@@ -7,9 +7,10 @@ Panduan ini berisi cara praktis menggunakan linux untuk keperluan standar *progr
 - [Alasan Menggunakan Ubuntu](#alasan-menggunakan-ubuntu)
 - [Cara Install Ubuntu](#instalasi-ubuntu)
 - [Cara Menggunakan Terminal](#cara-menggunakan-terminal)
-  - [Contoh Penggunaan Command Line](#contoh-penggunaan-command-line)
-  - [Contoh penggunaan sudo dan apt](#contoh-penggunaan-sudo-dan-apt)
+  - [Cara install aplikasi](#cara-install-aplikasi)
   - [Cara Menggunakan Vim](#cara-menggunakan-vim)
+  - [Contoh Penggunaan Command Line](#contoh-penggunaan-command-line)
+
  
 
 ## Alasan Menggunakan Ubuntu
@@ -89,7 +90,7 @@ Hasilnya:
 apt.conf.d  preferences.d  sources.list  sources.list.d  trusted.gpg  trusted.gpg.d
 ```
 
-Buat file `hello.json` **(jika belum install vim, lihat [catatan](#catatan))**
+Buat file `hello.json`. Jika belum install vim, lihat [cara install aplikasi](#cara-install-aplikasi).
 
   ```terminal
 $ vim hello.json
@@ -136,25 +137,20 @@ Hapus (remove) file `world.json`
 $ rm world.json
   ```
   
-## Catatan
+## Cara Install Aplikasi
 
-## sudo 
+Untuk menginstall aplikasi, perintah yang digunakan adalah:
 ```terminal
-$ sudo
+$ sudo apt [nama_aplikasi]
 ```
-Kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's permission`*.  
 
-`root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu. Install software adalah contoh perintah yang memerlukan `sudo`.
+`sudo` kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's permission`*. `root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu (administrator). 
 
-## apt
-```terminal
-$ apt
-```
-Berguna untuk menangani penambahan dan penghapusan perangkat lunak (package).
+`apt` adalah contoh perintah yang hanya bisa dilakukan oleh admin. Digunakan untuk menangani penambahan dan penghapusan perangkat lunak (package).
 
-### Contoh penggunaan sudo dan apt: 
 Misalnya kamu ingin coba membuat file bernama `hello.json` via terminal menggunakan file editor bernama `vim`. Tapi biasanya `vim` belum terpasang.
 
+Coba ketik perintah:
 ```terminal
 $ vim hello.json
 ```
@@ -213,4 +209,7 @@ Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik p
 ```terminal
 $ vimtutor
   ```
-Pastikan kamu paham perintah dasar ini sebelum lanjut.
+Pastikan kamu paham perintah dasar ini sebelum lanjut.  
+
+### Selanjutnya
+Jika kamu sudah memahami perintah dasar Vim, ikuti langkah [selanjutnya](#contoh-penggunaan-command-line)
