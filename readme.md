@@ -26,6 +26,10 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
 - JavaScript
 - [**Node.js**](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
+    - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
+    - [Node.js Hello World](node.js/anoa/readme.md#nodejs-hello-world)
+    - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
+    - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - Pengenalan Singkat Node.js & NPM
   - Membuat REST API Menggunakan Fastify
   - Unit Test Menggunakan Mocha, Chai dan Supertest
