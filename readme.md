@@ -1,7 +1,11 @@
 # Koleksi Catatan Seputar Programming
 
 - [Prasyarat](prasyarat.md)   
-  Berisi tentang beberapa hal yang wajib diketahui oleh programmer sebelum membuat aplikasi.
+  - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
+  - [Mengerti Cara Kerja Internet.](internet/readme.md)
+  - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
+  - [Mengerti Cara Menggunakan Git.](git/readme.md)
+  - Mengerti Konsep Database.
 - [Node.js](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
   - Pengenalan Singkat Node.js & NPM
