@@ -18,15 +18,15 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
       - [Cara Menggunakan Vim](linux/readme.md#cara-menggunakan-vim)
       - [Contoh Penggunaan Command Line](linux/readme.md#contoh-penggunaan-command-line)
 - **Persiapan**
+  - [**Git**](git/readme.md)
+    - [Cara Install git](git#cara-install-git)
+    - [Perintah dasar git](git#perintah-dasar-git)
+    - [Contoh penggunaan git](git#contoh-penggunaan-git)
   - [Install Code Editor](persiapan.md#install-vscode)
   - Install Nginx Web Server 
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co & Github.com](persiapan.md#buat-account-di-github-dan-zeit)
   - Install Mongose Database Server
-- [**Git**](git/readme.md)
-  - [Cara Install git](git#cara-install-git)
-  - [Perintah dasar git](git#perintah-dasar-git)
-  - [Contoh penggunaan git](git#contoh-penggunaan-git)
 - HTML
 - CSS
 - JavaScript
