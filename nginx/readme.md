@@ -65,10 +65,13 @@ Buka `http://localhost` di browser. Hasilnya seperti ini:
 
 User yang aktif saat ini, tidak bisa secara langsung mengedit file-file di dalam folder `/var/www/html`. Folder tersebut terbuat saat instalasi nginx. Secara default, folder tersebut milik user dan grup `www-data`.
 
-Agar user yang aktif bisa mengganti konten `root` folder, maka kamu harus tambahkan user tersebut menjadi anggota grup `www-data`. Caranya:
+Agar user yang aktif bisa mengganti konten `root` folder, maka kamu harus tambahkan user tersebut menjadi anggota grup `www-data` -- dan mengganti ownership folder ke grup `www-data`. 
+
+Caranya:
 
 ```terminal
-$ sudo usermod -a -G www-data yanu
+$ sudo usermod -a -G www-data $USER
+$ sudo chown $USER:www-data -R /var/www/html
 ```
 
 Dengan cara ini, kamu tidak perlu memakai `sudo` lagi jika ingin mengubah konten root dalam folder.
