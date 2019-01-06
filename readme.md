@@ -1,4 +1,4 @@
-# Koleksi Catatan Programming
+# Jalur Pembelajaran
 
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Dimulai dari tingkat yang paling dasar. 
 
@@ -25,4 +25,5 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
 - Java
 - Android
 - Python
+- Go
 - Rust
