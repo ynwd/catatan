@@ -1,4 +1,4 @@
-# Catatan Seputar Programming
+# Koleksi Catatan Seputar Programming
 
 - [Prasyarat](prasyarat.md)
 - [Catatan terkait Node.js](node.js/readme.md)
