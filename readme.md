@@ -6,9 +6,9 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
-  - [Mengerti Cara Menggunakan Git.](git/readme.md)
   - Memahami HTML & CSS
   - Memahami JavaScript
+  - [Mengerti Cara Menggunakan Git.](git/readme.md)
   - Memahami Konsep Database
 - [Node.js](node.js/readme.md)   
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
