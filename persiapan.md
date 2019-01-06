@@ -35,7 +35,7 @@ $ now --version
 12.1.14
 ```
 
-## Buat Account Zeit
+## Buat Account Zeit.co
 - Account Zeit nanti akan kamu pakai untuk upload dan deploy ke server yang bisa diakses dari mana pun (worldwide).
 - Isi dan proses intruksi halaman ini: [https://zeit.co/signup](https://zeit.co/signup)
 
