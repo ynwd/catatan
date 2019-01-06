@@ -2,9 +2,10 @@
 
 Untuk memperkecil perbedaan lingkungan kerja dan menghemat waktu, disarankan untuk menggunakan sistem operasi [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop). Semua intruksi instalasi command line panduan ini seharusnya berjalan dengan baik di atasnya.
 
-- [Install Node.js](#install-node.js)
-- [Node.js Hello World](#node.js-hello-world)
-- [Menjalankan Web Server dengan NPM](#Menjalankan-Web-Server-dengan-NPM)
+- [Install Node.js](#install-nodejs)
+- [Node.js Hello World](#nodejs-hello-world)
+- [Menjalankan Web Server dengan NPM](#menjalankan-web-server-dengan-npm)
+- [Deploy ke Zeit Server](#deploy-ke-zeit-server)
 
 ## Install Node.js
 
