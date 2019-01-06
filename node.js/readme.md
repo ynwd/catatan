@@ -1,6 +1,6 @@
 # Panduan Singkat Node.js
 
-Berikut ini adalah nama-nama folder panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, pembuatan REST API, pembuatan unit test, koneksi ke database, penggunaan docker, dan arsitektur microservice. 
+Berikut ini adalah panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, pembuatan REST API, pembuatan unit test, koneksi ke database, penggunaan docker, dan arsitektur microservice. 
 
 - [Persiapan dan Instalasi](anoa/readme.md)
 - Pengenalan Singkat Node.js & NPM
