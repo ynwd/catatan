@@ -205,7 +205,7 @@ Garbage after option argument: "-version"
 More info with: "vim -h"
 ```
 ### Cara menggunakan vim  
-Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik perintah berikut untuk step-by-step tutorial-nya.  
+Dengan asumsi kamu sudah [install vim](#cara-install-vim), ketik perintah berikut untuk step-by-step tutorial-nya.  
 ```terminal
 $ vimtutor
   ```
