@@ -4,7 +4,7 @@ Repositori ini dibuat setelah menghadiri sebuah *tech-talk* klub komputer yang p
 
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gendernya apa, atau kuliah di lulusan apa. 
 
-Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. 
+Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Jangan lewatkan satupun link (tautan), kecuali kamu sudah benar-benar memahami kontennya.
 
 > **Catatan:**   
 > Item yang tautannya tidak aktif, kontennya memang belum tersedia. *Stay tuned for more.*
@@ -34,7 +34,8 @@ Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan 
 - HTML
 - CSS
 - JavaScript
-- [**Node.js**](node.js)   
+- **Node.js**
+  - [Intro](node.js)
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
     - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
     - [Node.js Hello World](node.js/anoa/readme.md#nodejs-hello-world)
