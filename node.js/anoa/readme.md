@@ -1,6 +1,8 @@
 # Persiapan
 
-Untuk memperkecil perbedaan lingkungan kerja dan menghemat waktu, disarankan untuk menggunakan sistem operasi [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop). Semua intruksi instalasi command line panduan ini seharusnya berjalan dengan baik di atasnya.
+Untuk memperkecil perbedaan lingkungan kerja dan menghemat waktu, disarankan untuk menggunakan sistem operasi Ubuntu. (Lihat tautan berikut untuk cara penggunaannya: [Cara Menggunakan Linux](../../linux/readme.md))
+
+Semua intruksi instalasi command line panduan ini seharusnya berjalan dengan baik di atasnya.
 
 - [Install Node.js](#install-nodejs)
 - [Node.js Hello World](#nodejs-hello-world)
