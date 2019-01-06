@@ -16,3 +16,9 @@ Berikut ini adalah panduan singkat (sangat dasar) mengenai hal-hal yang wajib ka
 3. [Mengerti Cara Menggunakan Linux.](linux/readme.md)
 4. [Mengerti Cara Menggunakan Git.](git/readme.md)
 5. Mengerti Konsep Database.
+
+## Selanjutnya
+- [Catatan terkait Node.js](node.js/readme.md)
+- Catatan terkait Android
+- Catatan terkait Rust
+- Catatan terkait Python
