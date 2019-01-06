@@ -1,5 +1,4 @@
 # Persiapan
-Berikut ini adalah hal-hal yang harus kamu siapkan agar bisa mengikuti panduan ini dengan baik.
 
 Untuk memperkecil perbedaan lingkungan kerja dan menghemat waktu, disarankan untuk menggunakan sistem operasi [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop). Semua intruksi instalasi command line panduan ini seharusnya berjalan dengan baik di atasnya.
 
