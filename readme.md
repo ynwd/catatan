@@ -17,6 +17,7 @@
   - Menyimpan Data Menggunakan Mongoose
   - Docker untuk Pengembangan Aplikasi
   - Microservice Arsitektur
+- Java
 - Android
 - Python
 - Rust
