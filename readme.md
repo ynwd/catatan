@@ -9,6 +9,12 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
+    - [Alasan Menggunakan Ubuntu](linux/readme.md#alasan-menggunakan-ubuntu)
+    - [Instalasi Ubuntu](linux/readme.md#instalasi-ubuntu)
+    - [Cara Menggunakan Terminal](linux/readme.md#cara-menggunakan-terminal)
+      - [Cara install aplikasi](linux/readme.md#cara-install-aplikasi)
+      - [Cara Menggunakan Vim](linux/readme.md#cara-menggunakan-vim)
+      - [Contoh Penggunaan Command Line](linux/readme.md#contoh-penggunaan-command-line)
 - **Persiapan**
   - Install Code Editor
   - Install Nginx Web Server 
