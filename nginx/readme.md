@@ -59,5 +59,5 @@ Paste dan save kode html berikut:
 
 Buka `http://localhost` di browser. Hasilnya seperti ini:
 
-
+![hello](hello.png)
 
