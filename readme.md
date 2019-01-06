@@ -8,6 +8,8 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
 - **Prasyarat**   
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
+    - [IP Address](internet/readme.md#ip-address)
+    - [DNS](internet/readme.md#dns)
   - [Mengerti Cara Menggunakan Linux.](linux/readme.md)
     - [Alasan Menggunakan Ubuntu](linux/readme.md#alasan-menggunakan-ubuntu)
     - [Instalasi Ubuntu](linux/readme.md#instalasi-ubuntu)
