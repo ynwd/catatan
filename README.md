@@ -1,4 +1,4 @@
-# Koleksi Catatan Programming
+# Catatan Seputar Programming
 
 Hanya dengan mengikuti langkah demi langkah sebuah panduan, *copy-paste* kode, menyimpannya, dan start server, sebenarnya sudah cukup untuk membuat aplikasi. Tapi tahukah kamu, bagaimanakah cara kerjanya? 
 
