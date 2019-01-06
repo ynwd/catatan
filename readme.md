@@ -37,10 +37,11 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
     - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
     - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - Pengenalan Singkat Node.js & NPM
-  - Membuat REST API Menggunakan Fastify
-  - Unit Test Menggunakan Mocha, Chai dan Supertest
   - Menyimpan Data Menggunakan Mongoose
     - [Install Mongo Database Server](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition-using-deb-packages)
+  - Membuat REST API Menggunakan Fastify
+  - Unit Test Menggunakan Mocha, Chai dan Supertest
+  
 - Docker
 - Continuous Integration
 - Microservises
