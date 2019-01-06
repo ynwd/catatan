@@ -5,6 +5,7 @@ Nginx adalah aplikasi yang berguna sebagai server HTTP.
 - [Cara Install Nginx](#cara-install-nginx)
 - [Cara Menjalankan Nginx](#cara-menjalankan-nginx)
 - [Konfigurasi Nginx](#konfigurasi-nginx)
+- [Update Hak Akses User](#update-hak-akses-user)
 
 ## Cara Install Nginx
 
@@ -60,3 +61,14 @@ Buka `http://localhost` di browser. Hasilnya seperti ini:
 
 ![hello](hello.png)
 
+## Update Hak Akses User
+
+User yang aktif saat ini, tidak bisa secara langsung mengedit file-file di dalam folder `/var/www/html`. Folder tersebut terbuat saat instalasi nginx. Secara default, folder tersebut milik user dan grup `www-data`.
+
+Agar user yang aktif bisa mengganti konten `root` folder, maka kamu harus tambahkan user tersebut menjadi anggota grup `www-data`. Caranya:
+
+```terminal
+$ sudo usermod -a -G www-data yanu
+```
+
+Dengan cara ini, kamu tidak perlu memakai `sudo` lagi jika ingin mengubah konten root dalam folder.

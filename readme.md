@@ -32,6 +32,7 @@ Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan 
     - [Cara Install Nginx](nginx/readme.md#cara-install-nginx)
     - [Cara Menjalankan Nginx](nginx/readme.md#cara-menjalankan-nginx)
     - [Konfigurasi Nginx](nginx/readme.md#konfigurasi-nginx)
+    - [Update Hak Akses User](nginx/readme.md#update-hak-akses-user)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
 - HTML
