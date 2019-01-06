@@ -28,5 +28,5 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
   - Membuat REST API Menggunakan Fastify
   - Unit Test Menggunakan Mocha, Chai dan Supertest
   - Menyimpan Data Menggunakan Mongoose
-  - Docker untuk Pengembangan Aplikasi
-  - Microservice Arsitektur
+- Docker
+- Continuous Integration
