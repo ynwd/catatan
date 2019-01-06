@@ -28,7 +28,7 @@ Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan 
     - [Buat Account di Github.com](git#buat-account-di-githubcom)
     - [Contoh penggunaan git](git#contoh-penggunaan-git)
   - [Install Code Editor](persiapan.md#install-vscode)
-  - [Install Nginx Web Server](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/#official-debian-ubuntu-packages)
+  - [Install Nginx Web Server](nginx/readme.md)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
 - HTML
