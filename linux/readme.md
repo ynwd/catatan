@@ -209,4 +209,7 @@ Dengan asumsi kamu sudah [install vim](#contoh-penggunaan-sudo-dan-apt), ketik p
 ```terminal
 $ vimtutor
   ```
-Pastikan kamu paham perintah dasar ini sebelum lanjut.
+Pastikan kamu paham perintah dasar ini sebelum lanjut.  
+
+### Selanjutnya
+Jika kamu sudah memahami perintah dasar Vim, ikuti langkah [selanjutnya](#contoh-penggunaan-command-line)
