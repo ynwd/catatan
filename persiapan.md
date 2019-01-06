@@ -20,6 +20,28 @@ $ sudo apt-get install code # or code-insiders
 
 Intruksi lebih detail bisa diakses disini: [https://code.visualstudio.com/docs/setup/setup-overview](https://code.visualstudio.com/docs/setup/setup-overview).
 
+## Install Now
+
+Tool ini berguna untuk meng-upload aplikasi yang telah kita buat ke server [zeit](https://zeit.co/) agar bisa diakses di mana pun.
+
+```terminal
+$ npm install -g now
+```
+
+Cek hasil instalasi dengan perintah berikut.
+
+```terminal
+$ now --version
+12.1.14
+```
+
+## Buat Account di Github dan Zeit
+
+- Account Github nanti akan kamu pakai untuk sharing code & acuan deployment ke server.
+- Isi dan proses intruksi halaman ini: [https://github.com/join](https://github.com/join)
+- Account Zeit nanti akan kamu pakai untuk upload dan deploy ke server yang bisa diakses dari mana pun (worldwide).
+- Isi dan proses intruksi halaman ini: [https://zeit.co/signup](https://zeit.co/signup)
+
 ## Selanjutnya
 Jika semua sudah siap sudah, mari kita mulai ke langkah [selanjutnya](getting-started.md)
 
