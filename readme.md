@@ -4,7 +4,7 @@ Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang 
 
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gender, atau jurusan. 
 
-Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Jangan lewatkan satupun link (tautan), kecuali kamu sudah benar-benar memahami kontennya.
+Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Jangan lewatkan satupun link (tautan), kecuali sudah benar-benar memahami kontennya.
 
 > **Catatan:**   
 > Item yang tautannya tidak aktif, kontennya memang belum tersedia. *Stay tuned for more.*
