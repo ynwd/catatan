@@ -7,7 +7,7 @@
 - [ ] Sudah memahami cara menggunakan git.
 - [ ] Sudah memahami konsep database.
 
-Jika belum memenuhi prasyarat di atas, buka tautan berikut: [mulai di sini](../../../mulai-di-sini/blob/master/README.md).
+Jika belum memenuhi prasyarat di atas, buka tautan berikut: [prasyarat](../prasyarat.md).
 
 
 Berikut ini adalah nama-nama folder panduan singkat node.js. Dari proses instalasi, deployment ke server, pengenalan node.js dan NPM, pembuatan REST API, pembuatan unit test, koneksi ke database, penggunaan docker, dan arsitektur microservice. 
