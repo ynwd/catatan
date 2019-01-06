@@ -18,7 +18,7 @@ Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman ber
       - [Cara Menggunakan Vim](linux/readme.md#cara-menggunakan-vim)
       - [Contoh Penggunaan Command Line](linux/readme.md#contoh-penggunaan-command-line)
 - **Persiapan**
-  - Install Code Editor
+  - [Install Code Editor](persiapan.md#install-vscode)
   - Install Nginx Web Server 
   - Install Mongose Database Server
 - HTML
