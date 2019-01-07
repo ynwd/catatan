@@ -1,6 +1,6 @@
 # Nginx Webserver
 
-Nginx adalah aplikasi yang berguna sebagai server HTTP.
+Nginx adalah aplikasi yang digunakan untuk server HTTP.
 
 - [Cara Install Nginx](#cara-install-nginx)
 - [Cara Menjalankan Nginx](#cara-menjalankan-nginx)
