@@ -26,7 +26,7 @@ Buka browser dengan url http://localhost. Hasilnya:
 
 ![nginx](welcome.png)
 
-Untuk menghentkan nginx:
+Untuk menghentikan nginx:
 ```terminal
 $ sudo nginx -s quit
 ```
@@ -70,8 +70,29 @@ Agar user yang aktif bisa mengganti konten `root` folder, maka kamu harus tambah
 Caranya:
 
 ```terminal
-$ sudo usermod -a -G www-data $USER
-$ sudo chown $USER:www-data -R /var/www/html
+$ sudo usermod -aG www-data yanu
+$ sudo chown yanu:www-data -R /var/www/html
 ```
 
 Dengan cara ini, kamu tidak perlu memakai `sudo` lagi jika ingin mengubah konten root dalam folder.
+
+## Buat Symlink
+
+Symlink adalah file yang berisi referensi ke folder atau file lain. Pada konteks catatan ini, dengan symlink, kamu tidak perlu `cd` ke `/var/www/html` lagi. Tapi cukup dari home direktori saja.
+
+Caranya, masuk ke home direktori:
+```terminal
+$ cd ~
+```
+
+Buat symlink. Jangan lupa tanda titik:
+```terminal
+$ ln -s /var/www/html .
+```
+
+Sekarang, coba kamu masuk ke folder html dan list isinya:
+```terminal
+$ cd html
+$ ls
+index.html  index.nginx-debian.html
+```

@@ -1,13 +1,15 @@
-# Jalur Pembelajaran
+# Catatan
 
 Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang berasal dari mahasiswa di luar jurusan teknik informatika -- banyak diantara mereka yang kebingungan: "**kalau ingin membuat sebuah aplikasi, mulainya dari mana?**"
 
+![learning-path, taken from: https://pixabay.com/en/roadway-snow-road-winter-cold-1081719/](images/roadway.jpg)
+
 Repositori ini berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Asalkan antusias, siapapun bisa mengikutinya, tanpa memandang usia, gender, atau jurusan. 
 
-Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. Jangan lewatkan satupun link (tautan), kecuali sudah benar-benar memahami kontennya.
+Serupa dengan *learning-path* atau anggap saja kurikulum alternatif sekolah formal. Dimulai dari tingkat yang paling dasar. Disusun berdasarkan skala prioritas dan tingkat kesulitan. 
 
-> **Catatan:**   
-> Item yang tautannya tidak aktif, kontennya memang belum tersedia. *Stay tuned for more.*
+> Catatan:   
+> Jangan lewatkan satupun tautan, kecuali sudah benar-benar memahami kontennya.
 
 - **Prasyarat**   
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
