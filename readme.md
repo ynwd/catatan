@@ -53,6 +53,7 @@ Serupa dengan *learning-path* atau anggap saja kurikulum alternatif sekolah form
     - Install Mongo Database Server
   - Membuat REST API Menggunakan Fastify
   - Unit Test Menggunakan Mocha, Chai dan Supertest
+- Database
 - Docker
 - Continuous Integration
 - Microservises
