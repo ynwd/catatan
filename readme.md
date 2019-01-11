@@ -9,7 +9,7 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
 > Catatan:   
 > Jangan lewatkan satupun tautan, kecuali sudah benar-benar memahami kontennya.
 
-- Prasyarat  
+## Prasyarat  
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
     - [IP Address](internet/readme.md#ip-address)
@@ -21,7 +21,7 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
       - [Cara install aplikasi](linux/readme.md#cara-install-aplikasi)
       - [Cara Menggunakan Vim](linux/readme.md#cara-menggunakan-vim)
       - [Contoh Penggunaan Command Line](linux/readme.md#contoh-penggunaan-command-line)
-- Persiapan
+## Persiapan
   - [Install Git](git/readme.md)
     - [Cara Install git](git#cara-install-git)
     - [Perintah dasar git](git#perintah-dasar-git)
@@ -36,10 +36,10 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
     - [Buat Symlink](nginx/readme.md#buat-symlink)
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
-- HTML
-- CSS
-- JavaScript
-- Node.js
+## HTML
+## CSS
+## JavaScript
+## Node.js
   - [Intro](node.js)
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
     - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
@@ -53,7 +53,7 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
     - Update
     - Delete
   - Unit Test Menggunakan Mocha, Chai dan Supertest
-- Database
-- Docker
-- Continuous Integration
-- Microservice Architecture
+## Database
+## Docker
+## Continuous Integration
+## Microservice Architecture
