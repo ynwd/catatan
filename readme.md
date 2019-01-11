@@ -49,9 +49,11 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
     - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
     - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - Pengenalan Singkat Node.js & NPM
-  - Menyimpan Data Menggunakan Mongoose
-    - Install Mongo Database Server
   - Membuat REST API Menggunakan Fastify
+    - Create
+    - Read
+    - Update
+    - Delete
   - Unit Test Menggunakan Mocha, Chai dan Supertest
 - Database
 - Docker
