@@ -58,4 +58,4 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
 - Database
 - Docker
 - Continuous Integration
-- Microservises
+- Microservice Architecture
