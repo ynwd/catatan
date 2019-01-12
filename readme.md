@@ -9,7 +9,7 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
 > Catatan:   
 > Jangan lewatkan satupun tautan, kecuali sudah benar-benar memahami kontennya.
 
-- Prasyarat  
+- Prasyarat
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
   - [Mengerti Cara Kerja Internet.](internet/readme.md)
     - [IP Address](internet/readme.md#ip-address)
@@ -49,14 +49,26 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
     - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
     - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - Pengenalan Singkat Node.js & NPM
+    - Mengenal Konsep Event Loop.
+    - Mengenal NPM
   - Membuat REST API Menggunakan Fastify
     - Create
     - Read
     - Update
     - Delete
-  - Unit Test Menggunakan Mocha, Chai dan Supertest
-
+  - Testing 
+    - Pengenalan Unit Test
+    - Testing Menggunakan Mocha, Chai dan Supertest
 - Database
+  - Pengenalan konsep database
+  - Database relasional (MySQL)
+    - Persiapan & Instalasi
+    - Penggunaan MySQL
+    - Pemodelan Data
+  - Database NoSQL (MongoDB)
+    - Persiapan & Instalasi
+    - Penggunaan MongoDB
+    - Pemodelan Data
 - Microservice Architecture
 - Docker
 - Continuous Integration
