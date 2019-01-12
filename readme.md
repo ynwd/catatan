@@ -1,8 +1,8 @@
+![jalur-pembelajaran](https://ynwd.github.io/catatan/images/roadway.jpg)
+
 # *Learning path*
 
 Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang berasal dari mahasiswa di luar jurusan teknik informatika -- banyak diantara mereka yang kebingungan: "**kalau ingin membuat sebuah aplikasi, mulainya dari mana?**"
-
-![jalur-pembelajaran](https://ynwd.github.io/catatan/images/roadway.jpg)
 
 Repositori ini ditujukan untuk para peminat *web programming* tingkat paling dasar. Asalkan antusias, siapapun bisa mengikutinya. Tanpa memandang usia, gender, atau latar belakang jurusan. Berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun menurut skala prioritas dan tingkat kesulitan. 
 
