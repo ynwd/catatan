@@ -42,7 +42,6 @@ Serupa dengan *learning-path* (jalur pembelajaran) atau anggap saja kurikulum al
 - CSS
 - JavaScript
 - Node.js
-  - [Intro](node.js)
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
     - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
     - [Node.js Hello World](node.js/anoa/readme.md#nodejs-hello-world)
