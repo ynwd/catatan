@@ -62,7 +62,7 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
     - Testing Menggunakan Mocha, Chai dan Supertest
 - Database
   - Pengenalan konsep database
-  - Database relasional (MySQL)
+  - Database relasional
     - Persiapan & Instalasi
     - Penggunaan MySQL
     - Pemodelan Data
@@ -72,12 +72,6 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
       - contoh kasus
     - Koneksi dengan Node.js
     - MySQL ORM dan Node.js
-  - Database NoSQL (MongoDB)
-    - Persiapan & Instalasi
-    - Penggunaan MongoDB
-    - Pemodelan Data
-    - Koneksi MongoDB dengan Node.js
-    - MongoDB ORM dan Node.js
 - Microservice Architecture
 - Docker
 - Continuous Integration
