@@ -38,8 +38,10 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
   - [Install Now](persiapan.md#install-now)
     - [Buat Account di Zeit.co](persiapan.md#buat-account-zeitco)
 
-- HTML
-- CSS
+- HTML dan CSS
+  - Pengenalan HTML
+  - Pengenalan CSS
+  - Deploy Statik Web ke Github Pages
 - JavaScript
 - Node.js
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
