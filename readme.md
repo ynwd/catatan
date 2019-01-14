@@ -64,6 +64,10 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
     - Persiapan & Instalasi
     - Penggunaan MySQL
     - Pemodelan Data
+      - one to one
+      - one to many
+      - many to many
+      - contoh kasus
     - Koneksi dengan Node.js
     - MySQL ORM dan Node.js
   - Database NoSQL (MongoDB)
