@@ -7,7 +7,9 @@ Setelah menghadiri sebuah *tech-talk* klub komputer yang peminatnya banyak yang 
 Repositori ini ditujukan untuk para peminat *web programming* tingkat paling dasar. Asalkan antusias, siapapun bisa mengikutinya. Tanpa memandang usia, gender, atau latar belakang jurusan. Berisi koleksi catatan dan tautan pilihan seputar pemrograman berdasarkan pengalaman efektif selama belajar dan bekerja. Disusun menurut skala prioritas dan tingkat kesulitan. 
 
 > Catatan:   
-> Jangan lewatkan satupun tautan, kecuali sudah benar-benar memahami kontennya.
+> Jangan lewatkan satupun tautan, kecuali sudah benar-benar memahami kontennya. 
+> Beberapa point yang belum aktif tautannya memang belum dibuatkan kontennya.
+> Jangan ragu untuk melakukan riset secara mandiri.
 
 - Prasyarat
   - [Mengerti Cara Kerja Komputer.](komputer/readme.md)
