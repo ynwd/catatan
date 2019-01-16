@@ -45,6 +45,9 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
   - Pengenalan CSS
   - Deploy Statik Web ke Github Pages
 - JavaScript
+  - Contoh Syntax
+  - Konsep Hoisting
+  - Konsep Event Loop
 - Node.js
   - [Persiapan dan Instalasi](node.js/anoa/readme.md)
     - [Install Node.js](node.js/anoa/readme.md#install-nodejs)
@@ -52,8 +55,6 @@ Repositori ini ditujukan untuk para peminat *web programming* tingkat paling das
     - [Menjalankan Web Server dengan NPM](node.js/anoa/readme.md#menjalankan-web-server-dengan-npm)
     - [Deploy ke Zeit Server](node.js/anoa/readme.md#deploy-ke-zeit-server)
   - Pengenalan Singkat Node.js & NPM
-    - Mengenal Konsep Event Loop.
-    - Mengenal NPM
   - Membuat REST API Menggunakan Fastify
     - Create
     - Read
